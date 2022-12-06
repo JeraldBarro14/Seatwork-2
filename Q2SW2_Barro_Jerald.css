@@ -1,0 +1,41 @@
+/*this is an external CSS*/
+
+h1{
+	text-transform: uppervase;
+	text-shadow:  2px 2px #6D350E;
+}
+table{
+	box-shadow: 2px 2px #6D350E;
+	border-radius: 50px;
+	padding: 20px;
+}
+.Div1{
+	box-shadow:  2px 2px #C7B008;
+}
+.Div2{
+	box-shadow: 2px 2px #61B6A4;
+}
+.Div3{
+	box-shadow:  2px 2px #5E440F;
+}
+
+
+img{
+	border-radius: 20px;
+	padding: 3px;
+	border-style: solid; border-color: #BA4A00;
+	display:  block; margin-left:  auto; margin-right:  auto;
+		
+}
+.profile{
+	border-radius: 50%;
+	height: 50px;
+	border-style: inset;
+	border-color: rosybrown;
+
+}
+
+
+
+
+
